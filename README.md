@@ -29,10 +29,10 @@ Demo credentials for all environments: **[miracuves.com/practo-clone → Demo se
 Most telemedicine scripts stop at "video call a doctor." This platform ships with the features that actually run a healthcare *business*:
 
 - **E-Prescription Built In** — digital prescriptions with QR-code verification, drug-interaction checks, and pharmacy routing
-- **Telemedicine Stack** — 
-- **Lab-Booking Aggregator** — WebRTC video consult with chat fallback, recording-with-consent, and async consult — same stack Practo & Lybrate use
-- **Pharmacy Routing** — every patient touch-point logged with audit trail, encryption at rest, and role-based access
-- **HIPAA-Ready Logging** — scripts routed to nearest partner pharmacy for delivery — full-stack e-health, not just consults
+- **Telemedicine Stack** — WebRTC video consult with chat fallback, recording-with-consent, and async consult — same stack Practo & Lybrate use
+- **Lab-Booking Aggregator** — home-sample pickup, lab network, e-reports inside the app — what makes 1mg & Pharmeasy stick
+- **Pharmacy Routing** — scripts routed to nearest partner pharmacy for delivery — full-stack e-health, not just consults
+- **HIPAA-Ready Logging** — every patient touch-point logged with audit trail, encryption at rest, and role-based access
 
 ## 📦 Core Features
 
